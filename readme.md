@@ -26,11 +26,11 @@ and serve the blog up so people can see it
 The SimplyGrey theme is actually very easy to configure.
 
 ### Adding more links to the navigation bar
-1. Open the _configure.yaml file
+1. Open the _configure.yml file
 2. Add some more values to the urls hash like the others that already exist there.
 
 ### Changing the site name
-1. Open the _configure.yaml file
+1. Open the _configure.yml file
 2. Change the site name
 
 ### Changing the logo/picture image
