@@ -16,8 +16,22 @@ Once you have done this, installation is pretty easy.
 
 Simply clone the repository
 
-`git clone https://github.com/exaem/simplygrey-jekyll.git'
+`git clone https://github.com/exaem/simplygrey-jekyll.git`
 
 and serve the blog up so people can see it
 
 `cd simplygrey-jekyll; jekyll serve`
+
+## Configuring SimplyGrey
+The SimplyGrey theme is actually very easy to configure.
+
+### Adding more links to the navigation bar
+1. Open the _configure.yaml file
+2. Add some more values to the urls hash like the others that already exist there.
+
+### Changing the site name
+1. Open the _configure.yaml file
+2. Change the site name
+
+### Changing the logo/picture image
+1. Drop a 75x75 image into the img directory.
